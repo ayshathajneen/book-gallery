@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color:darkred;
+    height: 50px;
+    padding: 5px;
+}
+header h1{
+    color:azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+}
+.row{
+    background-color: bisque;
+    height: 600px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.col{
+    background-color: burlywood;
+    height: 450px;
+    margin: 10px;
+    padding: 20px;
+}
+img{
+    padding: 10px;
+    border-radius: 15%;
+}
+h2{
+    color: darkred;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4{
+    color: brown;
+    margin: 5px;
+    font-size: larger;
+}
+#btn{
+    background-color: bisque;
+    padding: 5px;
+    border-radius: 15%;
+    color:black;
+}
+footer{
+    background-color: brown;
+    height: 200px;
+    width: 100%;
+}
+h3{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+}
+p{
+    color: white;
+    font-style: italic;
+    margin: 10px;
+
+}
+.banner{
+    background-image: url(https://www.annpurnattcollege.com/Uploads/fileupload/391books-1-1024x417.jpg);
+    height: 400px;
+    width: 100%;
+}

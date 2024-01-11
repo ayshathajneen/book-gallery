@@ -1,0 +1,113 @@
+h1{
+    color:black;
+}
+a{
+    text-decoration: none;
+}
+
+/* add a background color to the navigation */
+.topnav{
+   background-color: rgb(128, 128, 128);
+   overflow: hidden;
+   width: 100%;
+   height: 50px;
+   
+}
+/* style the links inside the navigation bar */
+.topnav a{
+    float: inline-start;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+/* chamge the color of liks on hover */
+.topnav a:hover{
+  background-color: black;
+  color:azure;
+}
+
+.topnav input[type=text]{
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    border-radius:10px;
+}
+#b{
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+img{
+    background-color: rgba(128, 128, 128, 0.151);
+    border-radius:10px;
+    margin-top: 10px;
+}
+div{
+   
+    height: 30px;
+    text-align: center;
+    cursor: pointer;
+   margin-left: 50px;
+   width: 100%;
+}
+div:hover{
+    background-color: rgba(128, 128, 128, 0.215);
+    opacity: 1;
+    border-radius: 20px;
+}
+.p{
+    
+   text-align: center;
+    height: 300px;
+    width: 20%;
+    border: white solid 15px;
+    float: inline-start;
+    margin-top: -8px;
+    border-radius: 15px;
+    color: black;
+}
+    .banner{
+        background-image: url(https://img.freepik.com/free-photo/big-sale-discounts-products_23-2150336640.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1703376000&semt=ais);
+        height: 500px;
+        width: 100%;
+        border-radius: 10px;
+        margin-top: 30PX;
+        background-repeat:round;
+
+    }
+.p2{
+    margin-left: 50px;
+}
+.p3{
+    margin-left: 50px;
+}
+.p4{
+    margin-right: 100px;
+    margin-bottom:52px;
+    margin-left: 1180px;
+    margin-top:-332px;
+}
+.p5{
+    margin-top: -50px;
+}
+.p6{
+    margin-top: -50px;
+}
+.p7{
+    margin-top: -50px;
+}
+.p8{
+    margin-right: 100px;
+    margin-bottom:52px;
+    margin-left: 1180px;
+    margin-top:-332px;
+}
+.btn{
+    border-radius: 10px;
+}
